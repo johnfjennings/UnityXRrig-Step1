@@ -1,9 +1,15 @@
-# UnityXRrig-Step1
+# Unity - Quest 2 Development
 
-Project = UnityXRrig-Step1 
+roject = UnityXRrig-Step1 
 git repo = https://github.com/johnfjennings/UnityXRrig-Step1.git
 
-# Steps
+
+## UnityXRrig-Step1
+
+Setup Quest2 VR sample application. Add XR Toolkit. 
+
+
+### Steps
 
 1. Open New Unity Project
 2. Switch platform to Android
@@ -32,5 +38,16 @@ git repo = https://github.com/johnfjennings/UnityXRrig-Step1.git
     * If Publishing to Store add Keystore & Key 
 
 
+
+
+## UnityXRrig-Step2
+
+Add teleportation and Grabbable objects
+
+
+### Steps
+
+1. Open Previous unity project or check out tag v1.0 from repo
+2. Open Demo Scene
 
 
