@@ -127,6 +127,7 @@ PlayerSettings:
   vulkanEnableSetSRGBWrite: 0
   vulkanEnablePreTransform: 0
   vulkanEnableLateAcquireNextImage: 0
+  vulkanEnableCommandBufferRecycling: 1
   m_SupportedAspectRatios:
     4:3: 1
     5:4: 1
@@ -135,6 +136,7 @@ PlayerSettings:
     Others: 1
   bundleVersion: 0.3
   preloadedAssets:
+  - {fileID: 0}
   - {fileID: 11400000, guid: 1cab23fabd8d47a489e2b4fa04fb8ed0, type: 2}
   - {fileID: 0}
   - {fileID: 1837936789736353817, guid: c07708a4c7e8bd243b2c476c47a7da59, type: 2}
@@ -248,15 +250,15 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: E:/JohnJennings/_Projects/UnityProjects/IDM3-VAR/Keystore/k000000-VAR-Keystore2021.keystore
-  AndroidKeyaliasName: quest2demo
+  AndroidKeystoreName: C:/Users/john.jennings/.android/debug.keystore
+  AndroidKeyaliasName: 
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
-  androidUseCustomKeystore: 1
+  androidUseCustomKeystore: 0
   m_AndroidBanners:
   - width: 320
     height: 180
