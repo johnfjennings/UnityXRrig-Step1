@@ -3,6 +3,7 @@
 roject = UnityXRrig-Step1 
 git repo = https://github.com/johnfjennings/UnityXRrig-Step1.git
 
+![](./Assets/PolygonStarter/Textures/PolygonStarter_Texture_01.png)
 
 ## UnityXRrig-Step1
 
